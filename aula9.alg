@@ -5,8 +5,6 @@ var
     i : inteiro
 
 inicio
-
-    escreval("teste")
     
     para i de 1 ate 3 faça
         escreval("informe o valor para linha ",i," coluna 1")
